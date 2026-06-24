@@ -1,4 +1,5 @@
 ![GitHub Snake Game](https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu/snake-output/ocean.gif)
+(from [generate-snake-game-from-github-contribution-grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid))
 
 <!--
 **yue-charlie-liu/yue-charlie-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
