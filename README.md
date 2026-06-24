@@ -1,4 +1,8 @@
-![GitHub Snake Game](https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu/snake-output/ocean.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu/snake-output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu/snake-output/github-snake.svg">
+  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu/snake-output/github-snake.svg">
+</picture>
 
 (from [generate-snake-game-from-github-contribution-grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid))
 
